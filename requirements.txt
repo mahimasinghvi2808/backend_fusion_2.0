@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Marshmallow
+Flask-JWT-Extended
+python-dotenv
+requests
+weaviate-client
+flask-apispec
+marshmallow-sqlalchemy
